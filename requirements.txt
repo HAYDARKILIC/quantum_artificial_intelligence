@@ -1,0 +1,7 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+jupyterlab>=4.0
+
+# Part II onward (variational circuits, QML, automatic differentiation)
+pennylane>=0.35
